@@ -15,7 +15,9 @@
   ~ limitations under the License.
   -->
 
-<adaptive-icon xmlns:android="http://schemas.android.com/apk/res/android">
-    <background android:drawable="@drawable/ic_launcher_background"/>
-    <foreground android:drawable="@drawable/ic_launcher_foreground"/>
-</adaptive-icon>
+<resources>
+    <array name="fact_type">
+        <item>@string/fact_type_android</item>
+        <item>@string/fact_type_california</item>
+    </array>
+</resources>

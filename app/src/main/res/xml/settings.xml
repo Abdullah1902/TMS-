@@ -15,7 +15,12 @@
   ~ limitations under the License.
   -->
 
-<adaptive-icon xmlns:android="http://schemas.android.com/apk/res/android">
-    <background android:drawable="@drawable/ic_launcher_background"/>
-    <foreground android:drawable="@drawable/ic_launcher_foreground"/>
-</adaptive-icon>
+<PreferenceScreen xmlns:app="http://schemas.android.com/apk/res-auto">
+    <ListPreference
+            app:key="@string/preference_fact_type_key"
+            app:title="@string/settings_fact_type_title"
+            app:entries="@array/fact_type"
+            app:entryValues="@array/fact_type"
+            app:defaultValue="@string/fact_type_android"
+            app:useSimpleSummaryProvider="true"/>
+</PreferenceScreen>
