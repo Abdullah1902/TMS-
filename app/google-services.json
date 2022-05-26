@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1078877202382",
+    "project_id": "tmssystem-64ba8",
+    "storage_bucket": "tmssystem-64ba8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1078877202382:android:6e57c9879b5bc3aca16d9f",
+        "android_client_info": {
+          "package_name": "com.homeManagment.tms_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1078877202382-t7ed2oq9ffm6vj8t8hh3itr4tnpbau3l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_WZ21VqEojiiQGKA7_mPUkp7A_bm5gGM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1078877202382-t7ed2oq9ffm6vj8t8hh3itr4tnpbau3l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
